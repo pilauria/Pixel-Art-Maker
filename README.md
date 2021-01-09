@@ -16,4 +16,4 @@ Built with: HTML, CSS and JavaScript.
 3. On clicking a cell twice, the cell color reverts to white.
 4. "Reset" button will bring the app back to the empty screen.
 
-### [Click here to PLAY]
+
