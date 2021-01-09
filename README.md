@@ -12,4 +12,4 @@ Built with: HTML, CSS and JavaScript.
 - Download or Clone the Repository.
 - Open index.html in your browser.
 
-
+### [Click here to PLAY]
